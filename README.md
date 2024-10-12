@@ -6,7 +6,7 @@
 [![](https://visitcount.itsvg.in/api?id=jayamishraa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaya-mishra-730357236/) [![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](jayamishra31102003@gmail.com) 
 
 # 💻 Tech Stack:
