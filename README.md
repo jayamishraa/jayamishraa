@@ -1,7 +1,6 @@
 # 👩🏻 About Me:
-👩🏻‍💻 BTech CSE Undergraduate
+👩🏻‍💻 BTech CSE Undergraduate. <br>
 🔭 Seeking to contribute to various frontend projects.<br>
-
 [![](https://visitcount.itsvg.in/api?id=jayamishraa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
