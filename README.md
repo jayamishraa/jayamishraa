@@ -1,6 +1,4 @@
 # 👩🏻 About Me:
-👩🏻‍💻 I'm a BTech CSE final year student.<br>
-⚙️ I am currently working on frontend projects & DSA.<br>
 🔭 Seeking to contribute to various frontend projects.<br>
 
 [![](https://visitcount.itsvg.in/api?id=jayamishraa&icon=0&color=0)](https://visitcount.itsvg.in)
